@@ -1,12 +1,7 @@
 <?php
-   echo "hola mundo";
+   echo "Hola mundo dese el index";
 
 
-   echo "esto es una prueba";
 
-   echo "esto es una prueba2";
-
-
-   echo "esto es una prueba3";
    
 ?>
